@@ -1,0 +1,6 @@
+set tabstop=2
+set cindent
+set shiftwidth=2
+filetype plugin on
+set omnifunc=syntaxcomplete#Complete
+set pastetoggle=<F10>
