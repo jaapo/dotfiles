@@ -1,0 +1,4 @@
+:VimchantSpellCheckOff	vimchant.txt	/*:VimchantSpellCheckOff*
+:VimchantSpellCheckOn	vimchant.txt	/*:VimchantSpellCheckOn*
+vimchant-config	vimchant.txt	/*vimchant-config*
+vimchant.txt	vimchant.txt	/*vimchant.txt*
