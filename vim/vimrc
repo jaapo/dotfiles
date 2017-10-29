@@ -15,3 +15,7 @@ noremap <Down> <NOP>
 noremap <Left> <NOP>
 noremap <Right> <NOP>
 set modeline
+set mouse=
+set cursorline
+set hls
+set scrolloff=5
