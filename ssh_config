@@ -1,0 +1,6 @@
+Host *
+IdentitiesOnly yes
+ForwardAgent no
+ForwardX11 no
+ForwardX11Trusted no
+

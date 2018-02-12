@@ -19,3 +19,5 @@ set mouse=
 set cursorline
 set hls
 set scrolloff=5
+set number
+set relativenumber
