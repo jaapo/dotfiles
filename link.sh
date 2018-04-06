@@ -1,6 +1,9 @@
 #!/bin/sh
 
-dotfiles=$(dirname "$0")
+dotfiles=$(realpath $(dirname "$0"))
+
+mkdir -p ~/.config
+mkdir -p ~/.config/i3
 
 ln -s "${dotfiles}/vim" ~/.vim
 ln -s "${dotfiles}/vim/vimrc" ~/.vimrc
