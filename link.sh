@@ -11,3 +11,4 @@ ln -s "${dotfiles}/bashrc" ~/.bashrc
 ln -s "${dotfiles}/gitconfig" ~/.gitconfig
 ln -s "${dotfiles}/i3config" ~/.config/i3/config
 ln -s "${dotfiles}/ranger" ~/.config/ranger
+ln -s "${dotfiles}/inputrc" ~/.inputrc
